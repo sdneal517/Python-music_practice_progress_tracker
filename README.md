@@ -23,17 +23,11 @@ This Python program helps you track progress while rehearsing a musical section.
 2. Enter your starting tempo and tempo increase.
 3. Follow the on-screen instructions.
 
-**How to Play**
+**How to Use**
 
 - Track your coin status (heads/tails).
 - Indicate if you played the section correctly.
 - Achieve 5 consecutive 'tails' to increase the tempo.
 
-**Progress Tracking**
-
 - Aim for 5 consecutive 'tails' to increase tempo.
 - Gradually challenge yourself to improve accuracy and speed.
-
-**Tips**
-
-- Great musicians practice 
